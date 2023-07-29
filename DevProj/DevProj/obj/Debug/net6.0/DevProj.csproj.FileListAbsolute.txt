@@ -1,0 +1,15 @@
+C:\Users\Bhargay\source\repos\DevProj\DevProj\bin\Debug\net6.0\DevProj.exe
+C:\Users\Bhargay\source\repos\DevProj\DevProj\bin\Debug\net6.0\DevProj.deps.json
+C:\Users\Bhargay\source\repos\DevProj\DevProj\bin\Debug\net6.0\DevProj.runtimeconfig.json
+C:\Users\Bhargay\source\repos\DevProj\DevProj\bin\Debug\net6.0\DevProj.dll
+C:\Users\Bhargay\source\repos\DevProj\DevProj\bin\Debug\net6.0\DevProj.pdb
+C:\Users\Bhargay\source\repos\DevProj\DevProj\obj\Debug\net6.0\DevProj.csproj.AssemblyReference.cache
+C:\Users\Bhargay\source\repos\DevProj\DevProj\obj\Debug\net6.0\DevProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhargay\source\repos\DevProj\DevProj\obj\Debug\net6.0\DevProj.AssemblyInfoInputs.cache
+C:\Users\Bhargay\source\repos\DevProj\DevProj\obj\Debug\net6.0\DevProj.AssemblyInfo.cs
+C:\Users\Bhargay\source\repos\DevProj\DevProj\obj\Debug\net6.0\DevProj.csproj.CoreCompileInputs.cache
+C:\Users\Bhargay\source\repos\DevProj\DevProj\obj\Debug\net6.0\DevProj.dll
+C:\Users\Bhargay\source\repos\DevProj\DevProj\obj\Debug\net6.0\refint\DevProj.dll
+C:\Users\Bhargay\source\repos\DevProj\DevProj\obj\Debug\net6.0\DevProj.pdb
+C:\Users\Bhargay\source\repos\DevProj\DevProj\obj\Debug\net6.0\DevProj.genruntimeconfig.cache
+C:\Users\Bhargay\source\repos\DevProj\DevProj\obj\Debug\net6.0\ref\DevProj.dll
